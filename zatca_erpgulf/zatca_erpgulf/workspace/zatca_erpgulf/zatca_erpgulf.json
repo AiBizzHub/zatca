@@ -16,7 +16,7 @@
  "idx": 1,
  "indicator_color": "",
  "is_hidden": 0,
- "label": "ZATCA ERPGulf",
+ "label": "ZATCA AibizzApp",
  "links": [
   {
    "hidden": 0,
@@ -170,5 +170,5 @@
    "type": "Dashboard"
   }
  ],
- "title": "ZATCA ERPGulf"
+ "title": "ZATCA AibizzApp"
 }
